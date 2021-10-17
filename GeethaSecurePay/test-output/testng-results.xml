@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-17T19:30:37Z" name="Suite" finished-at="2021-10-17T19:30:50Z" duration-ms="12978">
+    <groups>
+    </groups>
+    <test started-at="2021-10-17T19:30:37Z" name="Test" finished-at="2021-10-17T19:30:50Z" duration-ms="12978">
+      <class name="com.Geetha.SecurePay.test.GoogleHomeTest">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:com.Geetha.SecurePay.test.GoogleHomeTest@1bae316d]" started-at="2021-10-17T19:30:37Z" name="openbrowser" finished-at="2021-10-17T19:30:39Z" duration-ms="2268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="seraching()[pri:0, instance:com.Geetha.SecurePay.test.GoogleHomeTest@1bae316d]" started-at="2021-10-17T19:30:39Z" name="seraching" finished-at="2021-10-17T19:30:50Z" duration-ms="10694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seraching -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.Geetha.SecurePay.test.GoogleHomeTest@1bae316d]" started-at="2021-10-17T19:30:50Z" name="closebrowser" finished-at="2021-10-17T19:30:50Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.Geetha.SecurePay.test.GoogleHomeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
